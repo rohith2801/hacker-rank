@@ -3,7 +3,7 @@ package com.tihor.hackerrank;
 import java.util.Scanner;
 
 /**
- * url: https://www.hackerrank.com/challenges/diagonal-difference?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign
+ * https://www.hackerrank.com/challenges/diagonal-difference
  * The type Diagonal difference.
  */
 public class DiagonalDifference {
